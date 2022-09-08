@@ -1,0 +1,15 @@
+.box{
+    width : 80% ; 
+    margin : auto ; 
+    border : 1px solid white ; 
+    height : 500px ; 
+    background-color: #1f80e0;
+}
+
+.container{
+   
+    margin-top: 50px ; ; 
+    display : flex ; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
